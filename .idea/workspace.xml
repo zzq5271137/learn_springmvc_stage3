@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c224315-9dd5-4c1b-8ad0-cf48092df494" name="Default Changelist" comment="" />
+    <list default="true" id="9c224315-9dd5-4c1b-8ad0-cf48092df494" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Learn_SpringMVC_stage3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_SpringMVC_stage3.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -287,11 +292,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -310,6 +310,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581844499042</updated>
       <workItem from="1581844500282" duration="9039000" />
+      <workItem from="1581941289712" duration="28000" />
+      <workItem from="1581942486536" duration="104000" />
     </task>
     <servers />
   </component>
